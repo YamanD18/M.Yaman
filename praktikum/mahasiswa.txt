@@ -1,0 +1,23 @@
+NIM = 20240040224
+Nama = M. Yaman 
+Alamat = Lodaya
+Kelas = TI24
+
+NIM = 2023004001
+Nama = dadang
+Alamat = cibadak
+Kelas = TI23
+NIM = 20240040224
+Nama = M. Yaman
+Alamat = Lodaya cibadak
+Kelas = TI24
+
+NIM = 20240040224
+Nama = M. Yaman
+Alamat = Lodaya cibadak
+Kelas = TI24
+
+NIM = 20240040322
+Nama = Hallow
+Alamat = cisaat karang
+Kelas = TI24
