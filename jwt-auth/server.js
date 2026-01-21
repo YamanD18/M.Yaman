@@ -2,7 +2,7 @@ const express = require('express');
 const jwt = require('jsonwebtoken');
 
 const app = express();
-const secretKey = 'rahasia'; // ganti dengan secret key yang kuat
+const secretKey = 'ciee'; // ganti dengan secret key yang kuat
 
 // Middleware verifikasi token
 const verifyToken = (req, res, next) => {
@@ -28,3 +28,4 @@ app.get('/secure-endpoint', verifyToken, (req, res) => {
 app.listen(3000, () => {
   console.log('Server berjalan di port 3000');
 });
+
