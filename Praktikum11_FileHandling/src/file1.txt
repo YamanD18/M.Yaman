@@ -1,0 +1,3 @@
+Halo, ini isi file pertama.
+Belajar File Handling Java.
+Semoga Praktikum Lancar.
